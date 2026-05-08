@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"Tests\\Unit\\ExampleTest::test_that_true_is_true":0.005,"Tests\\Feature\\ExampleTest::test_the_application_returns_a_successful_response":0.08,"Tests\\Feature\\TaskApiTest::test_example":0.002,"Tests\\Feature\\TaskApiTest::test_can_get_all_tasks":0.032,"Tests\\Feature\\TaskApiTest::test_can_create_a_task":0.012}}
